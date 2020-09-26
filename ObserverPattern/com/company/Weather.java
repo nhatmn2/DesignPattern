@@ -4,11 +4,11 @@ import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.lang.Math;
+//import java.lang.Math;
 
 import static ObserverPattern.com.company.Weather.so;
 import static java.lang.Math.pow;
-import static java.lang.StrictMath.abs;
+//import static java.lang.StrictMath.abs;
 
 //=================================================================================
 //   Weather
@@ -37,7 +37,7 @@ public class Weather {
         wd.setMeasurements(95, 85, 29.2f);
         wd.setMeasurements(100, 90, 29.0f);
 
-        hi.runTests();
+        //hi.runTests();
     }
 
     public static void main(String[] args) {
